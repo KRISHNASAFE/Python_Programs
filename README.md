@@ -1,10 +1,17 @@
-# My_Python_Programs
-This repo is developed for my own practice. 
-To know, understand & practice coding in Python. 
-This repo consists of Basic to intermediate programs some involving creating project also.
+# Python Automation & Utility Programs
 
+## Overview
+Collection of Python programs for automation, scripting, file handling, API interaction, and DevOps-related tasks.
 
-Any suggestions/feedback are alays welcome. 
+## Topics Covered
+- File automation
+- API requests
+- Data processing
+- System monitoring
+- Automation scripts
 
-
-Thanks in advance !!!
+## Technologies
+- Python
+- Requests
+- OS Module
+- JSON
